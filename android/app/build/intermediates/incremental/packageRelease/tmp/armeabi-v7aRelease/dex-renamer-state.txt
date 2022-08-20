@@ -1,0 +1,4 @@
+#Mon Jul 11 11:43:39 IST 2022
+base.0=/Users/mac/haris_app/harisproject/android/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
